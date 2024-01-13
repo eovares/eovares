@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Edward]
+# Hi there! 👋 I'm Edward
 
 I’m currently working as a software developer with expertise in Java, JavaScript, and React. I love building scalable and efficient solutions to complex problems. Currently, I'm exploring new technologies to stay on the cutting edge of the ever-evolving tech landscape.
 
