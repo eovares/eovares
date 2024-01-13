@@ -27,7 +27,7 @@ I'm always eager to learn new technologies. Currently, I'm diving deeper into:
 
 Feel free to connect with me on:
 
-- [LinkedIn](www.linkedin.com/in/edward-ovares)
+- [LinkedIn](https://www.linkedin.com/in/edward-ovares)
 <!--
 - [Twitter](https://twitter.com/your-twitter-handle)
 -->
