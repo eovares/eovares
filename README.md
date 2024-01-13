@@ -21,7 +21,7 @@ I'm always eager to learn new technologies. Currently, I'm diving deeper into:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eovares&show_icons=true&hide=contribs,prs&theme=dark)
 
 ## 📫 Let's Connect
 
