@@ -36,7 +36,7 @@ Feel free to connect with me on:
 
 Here are a few projects I'm proud of:
 
-- [Rabbit Farm Management System](https://github.com/eovares/proyecto-de-granja-de-conejos)
+- [Rabbit Farm Management System](https://github.com/eovares/rabbit-farm-management-system)
 
 Thanks for stopping by! 😊
 
